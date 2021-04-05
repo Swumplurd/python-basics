@@ -1,6 +1,6 @@
 """ En python tenemos condicionales como otros lenguajes de programacion, tenemos 'if', 'else', 
     pero en este caso no tenemos una sentencia como 'else if' en su defecto tenemos su equivalente 
-    'elif'. A diferencia de otros leguajes de programacion no usamos llaves para indicar el bloque 
+    'elif'. A diferencia de otros lenguajes de programacion no usamos llaves para indicar el bloque 
     de codigo que ejecutara el condicional, en python usamos la identacion """
 
 #if
