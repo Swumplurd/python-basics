@@ -27,21 +27,21 @@ while True:
     ''')
 
     if op == '1':
-        n1 = float(input('Introduce el primer numero'))
-        n2 = float(input('Introduce el segundo numero'))
-        print('El resultado de la suma es:',n1 + n2)
+        n1 = float(input('Introduce el primer numero '))
+        n2 = float(input('Introduce el segundo numero '))
+        print('El resultado de la suma es: ',n1 + n2)
     elif op == '2':
-        n1 = float(input('Introduce el primer numero'))
-        n2 = float(input('Introduce el segundo numero'))
-        print('El resultado de la resta es:',n1 - n2)
+        n1 = float(input('Introduce el primer numero '))
+        n2 = float(input('Introduce el segundo numero '))
+        print('El resultado de la resta es: ',n1 - n2)
     elif op == '3':
-        n1 = float(input('Introduce el primer numero'))
-        n2 = float(input('Introduce el segundo numero'))
-        print('El resultado de la multiplicacion es:',n1 * n2)
+        n1 = float(input('Introduce el primer numero '))
+        n2 = float(input('Introduce el segundo numero '))
+        print('El resultado de la multiplicacion es: ',n1 * n2)
     elif op == '4':
-        n1 = float(input('Introduce el primer numero'))
-        n2 = float(input('Introduce el segundo numero'))
-        print('El resultado de la divicion es:',n1 / n2)
+        n1 = float(input('Introduce el primer numero '))
+        n2 = float(input('Introduce el segundo numero '))
+        print('El resultado de la divicion es: ',n1 / n2)
     elif op == '5':
         print('Hasta luego')
         break   #break rompe el bucle
