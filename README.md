@@ -18,6 +18,10 @@ Se recomienda seguir el orden de los apuntes para un mejor entendimiento.
 + 07-operadores-logicos.py
 + 08-operadores-asignacion.py
 + 09-if-else-elif.py
++ 10-while.py
++ 11-for.py
++ 12-tuplas.py
++ 13-conjuntos.py
 
 ---
 

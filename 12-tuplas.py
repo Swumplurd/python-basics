@@ -17,4 +17,4 @@ print(len(tupla))           #5
 print(tupla.index('Hola'))  #0 || Lanza error si no encuentra el elemento en la tupla
 
 #El metodo count nos permitira saber cuantas veces se repite un elemento en la tupla
-print(tupla.count(1))       #2
+print(tupla.count(1))       #2 puesto que True corresponde al valor 1
