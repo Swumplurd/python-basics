@@ -15,7 +15,7 @@ print(traducciones)         #Los diccionarios son estructuras desordenadas
 print(traducciones["azul"]) #Nos muestra "blue", asi que para acceder a los valores debemos hacer referencia a la clave
 
 #Para redefinir el valor de una clave se hace de la siguiente manera
-traducciones["rosa"] = "pinky"  #Cambia su valord de "pink" a "pinky"
+traducciones["rosa"] = "pinky"  #Cambia su valor de "pink" a "pinky"
 print(traducciones["rosa"])     #Muestra "pinky"
 
 #Para borrar un elemento
@@ -23,7 +23,12 @@ del(traducciones["amarillo"])   #Borra amarillo
 print(traducciones)             #Ya no esta amarillo, ni su clave ni su valor
 
 #Podemos recorrer los elementos de un diccionario con un for
-edades = {"Marco": 22, "Posi": 34, "Fernando": 27, "Carlos": 25}
+edades = {
+    "Marco": 22,
+    "Posi": 34,
+    "Fernando": 27,
+    "Carlos": 25
+}
 for edad in edades:
     print(edad) #Sin embargo esto nos muestra la clave y no el valor
 

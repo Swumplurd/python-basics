@@ -13,11 +13,10 @@ print(ult)      # 6
 print(pila)     # [1, 2, 3, 4, 5]
 
 
-#Colas FIFO(First In First Out)7
+#Colas FIFO(First In First Out)
 #Para usar colas en Python debemos importar un modulo que nos permita utilizarlas
 
 from collections import deque
-import collections
 
 cola = deque()
 print(cola)     #deque([])
