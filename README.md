@@ -22,6 +22,8 @@ Se recomienda seguir el orden de los apuntes para un mejor entendimiento.
 + 11-for.py
 + 12-tuplas.py
 + 13-conjuntos.py
++ 14-diccionarios.py
++ 15-pilas-colas.py
 
 ---
 
