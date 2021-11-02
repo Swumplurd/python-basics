@@ -24,6 +24,8 @@ Se recomienda seguir el orden de los apuntes para un mejor entendimiento.
 + 13-conjuntos.py
 + 14-diccionarios.py
 + 15-pilas-colas.py
++ 16-enviar-parametros.py
++ 17-cadenas-formateadas.py
 
 ---
 
