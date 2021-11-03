@@ -39,7 +39,6 @@ print("{:.3f}".format(314.159265359))
 
 #Tambien podemos truncar el valor de un flotante y rellenarlo con ceros
 print("{:07.3f}".format(3.14159265359))
-print("{:.3f}".format(314.159265359))
 
 #El formateo de cadenas tambien puede implementarse de forma mas sencilla
 print(f"Hola {nombre}")
