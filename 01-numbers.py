@@ -26,4 +26,4 @@ print(res)
 res = num1**2       #Potencia
 print(res)
 
-#Si queremos ejecutar el programa compelto escribimos en nuestra consola py <nombre>
+#Si queremos ejecutar el programa compelto escribimos en nuestra consola py <nombre_del_programa>
