@@ -3,7 +3,7 @@
 conjunto = set()        #Asi declaramos un conjunto vacio
 conjunto = {1, 2, 3}    #Asi creamos un conjunto con tres elementos
 
-#Agragar elementos al conjunto
+#Agregar elementos al conjunto
 conjunto.add(4)         #Podemos agregar mas elementos al conjunto con .add()
 print(conjunto)         #{1, 2, 3, 4}
 conjunto.add(0)         #Se dice que un conjunto es desordenado puesto que los elementos agregados no se agragan a la ultima posicion estrictamente
@@ -20,7 +20,7 @@ grupo = {'Fernando', 'Laura', 'Alberto'}
 
 print('Fernando' in grupo)      #True
 print('Hector' in grupo)        #False
-print('Hector' not in grupo)    #False
+print('Hector' not in grupo)    #True
 
 #En un conjunto no puede haber elementos repetidos
 test = {1, 1, 1}    #Los valores repetidos de un conjunto se eliminan

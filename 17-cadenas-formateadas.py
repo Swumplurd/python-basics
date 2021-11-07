@@ -4,7 +4,7 @@ nombre = 'Fernando'
 apellido = 'Vasquez'
 edad = 27
 
-#De esta manera las valiables toman el espacio segun su orden de aparicion
+#De esta manera las variables toman el espacio segun su orden de aparicion
 cadena = 'Tu nombre es: {} {} y tu edad {}'.format(nombre, apellido, edad)
 print(cadena)
 

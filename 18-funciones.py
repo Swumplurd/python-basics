@@ -41,3 +41,9 @@ def ret_tupla():
 print(ret_tupla())  #Se imprimen como una tupla
 cadena, pi, lista = ret_tupla()
 print(cadena, pi, lista) #Podemos almacenar cada valor devuelto en variables distintas
+
+#Envio de valiores
+def resta(n1, n2):
+    return n1 - n2
+
+print(5,3)
