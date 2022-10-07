@@ -27,6 +27,14 @@ Se recomienda seguir el orden de los apuntes para un mejor entendimiento.
 + 16-enviar-parametros.py
 + 17-cadenas-formateadas.py
 + 18-funciones.py
++ 19-argumentos-parametros.py
++ 20-argumentos-por-valor-o-referencia.py
++ 21-argumentos-indeterminados.py
++ 22-funciones-recursivas.py
++ 23-funciones-integradas.py
++ 24-excepciones.py
++ 25-excepciones-multiples.py
++ 26-invocacion-excepciones.py
 
 ---
 
