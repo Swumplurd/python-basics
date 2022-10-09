@@ -1,6 +1,3 @@
-from __future__ import print_function
-
-
 def resta(a, b):    #Definimos una funcion para recibir los parametros a y b
     return a - b
 

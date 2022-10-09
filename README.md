@@ -35,6 +35,14 @@ Se recomienda seguir el orden de los apuntes para un mejor entendimiento.
 + 24-excepciones.py
 + 25-excepciones-multiples.py
 + 26-invocacion-excepciones.py
++ 27-clases-objetos.py
++ 28-metodos-especiales.py
++ 29-encapsulacion.py
++ 30-ejercicio-clases.py
++ 31-herencia.py
++ 32-polimorfismo.py
++ 33-herencia-multiple.py
++ 34-ejercicio-herencia.py
 
 ---
 
