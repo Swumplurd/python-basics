@@ -48,6 +48,7 @@ Se recomienda seguir el orden de los apuntes para un mejor entendimiento.
 + 37-metodos-de-conjuntos.py
 + 37-metodos-de-conjuntos.py
 + 38-metodos-de-diccionarios.py
++ 39-diferentes-operaciones-numeros.py
 
 ---
 

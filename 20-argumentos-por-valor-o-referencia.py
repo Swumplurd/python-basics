@@ -1,8 +1,5 @@
 #En python hay dos formas en la que los argumentos son pasados a las funciones; por valor y por referencia
 
-from re import A
-
-
 def doblar_numero(numero):  #En esta funcion el parametro pasa por valor e internamente python crea una copia de ese valor para realizar procesos sin afectar al valor original
     numero *= 2
 
