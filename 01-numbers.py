@@ -20,6 +20,9 @@ print(res)
 res = num1 / num2   #Division
 print(res)
 
+res = 6.9 // 1      #Division Entera (Devuelve siempre un numero entero de efectuar la division, similar a math.floor())
+print(res)
+
 res = num1 % num2   #Modulo
 print(res)
 
