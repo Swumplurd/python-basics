@@ -1,3 +1,5 @@
+# WHILE
+
 #La sintaxis de la sentencia while es la siguiente
 c = 0
 while c <= 5:   #While evalua una condicion si esta da true se ejecuta.

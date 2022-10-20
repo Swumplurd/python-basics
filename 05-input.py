@@ -1,4 +1,5 @@
-#Inputs
+# INPUTS
+
 #Para leer valores que introduzcamos por teclado usamos la funcion input()
 print('Ingresa un valor: ')
 valor = input()

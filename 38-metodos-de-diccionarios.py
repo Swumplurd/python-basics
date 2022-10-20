@@ -1,4 +1,4 @@
-#Metodos de los diccionarios
+# METODOS DE DICCIONARIOS
 
 dict = {"amarillo": "yellow", "azul": "blue", "verde": "green"}
 

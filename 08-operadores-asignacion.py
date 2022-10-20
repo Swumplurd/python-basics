@@ -1,4 +1,4 @@
-#Operadores de asignacion
+# OPERADORES EN ASIGNACION
 
 a = 0
 

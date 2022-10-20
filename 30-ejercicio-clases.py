@@ -1,3 +1,5 @@
+# EJERCICIO CON CLASES
+
 """ 
 Crear una clase llamada Punto con sus dos coordenadas X,Y
 Añadir un metodo constructor para crear puntos facilmente. Si no se recibe una coordenada su valor sera 0

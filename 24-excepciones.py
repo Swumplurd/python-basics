@@ -1,3 +1,5 @@
+# EXCEPCIONES
+
 #Las excepciones nos permiten anticiparnos a errores y tener un manejo de estos sin interrumpir la ejecucion del script
 
 def dividir(a, b):

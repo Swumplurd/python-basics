@@ -1,3 +1,5 @@
+# ENVIAR PARAMETROS
+
 import  sys     #Usamos la libreria sys para poder pasar parametros a nuestro script
 
 print(sys.argv) #De esta manera recibimos parametros, todos los parametros se reciben como una cadena

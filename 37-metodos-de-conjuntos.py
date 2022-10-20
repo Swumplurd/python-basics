@@ -1,4 +1,4 @@
-#Metodos de conjuntos
+# METODOS DE CONJUNTOS
 
 c1 = set();   #Creamos un conjunto vacio
 

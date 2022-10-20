@@ -1,4 +1,4 @@
-#Metodos de cadenas
+# METODOS DE CADENAS
 
 frase = "hola mundo!"
 

@@ -1,3 +1,5 @@
+# HERENCIA
+
 #La herencia es la forma que tiene una clase de pasar sus atributos y metodos a otra clase, sus aplicaciones pueden ser variadas aun que son tema de debate
 
 class Producto:

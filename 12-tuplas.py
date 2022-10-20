@@ -1,3 +1,5 @@
+# TUPLAS
+
 #Las tuplas son inmutables, se implementan similares a las listas con la diferencia que lo haremos dentro de parentesis en lugar de corchetes
 
 tupla = ('Hola', 1, True, [1,2,3,4,5,6,7,8,9,0], 'Adios')

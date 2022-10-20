@@ -1,3 +1,5 @@
+# FOR
+
 #La sentencia For trabaja algo diferente a otros lenguajes con Java, C++, etc.
 #For trabaja en python a partir de una lista. La sintaxis de For es la siguiente:
 

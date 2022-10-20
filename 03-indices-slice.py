@@ -1,4 +1,5 @@
-#Indices
+# INDICES SLICE
+
 ''' Los indices en una palabra son los espacios que ocupa cada caracter, por ejemplo en la palabra "python" la 'p' 
     ocupa la posicion numero 0 y la 'n' la posicion numero 5
     En Python los indices de las palabras se pueden contar tanto de izquerda a derecha como de derecha a izquierda 

@@ -1,3 +1,5 @@
+# PILAS Y COLAS
+
 #Pilas LIFO(Last In First Out)
 #Python no implementa pilas como tal, pero se pueden simular con listas
 

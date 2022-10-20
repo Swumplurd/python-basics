@@ -1,3 +1,5 @@
+# ARGUMENTOS Y PARAMETROS
+
 def resta(a, b):    #Definimos una funcion para recibir los parametros a y b
     return a - b
 

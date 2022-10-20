@@ -1,4 +1,5 @@
-#Operadores logicos
+# OPERADORES LOGICOS
+
 #Los operadores logicos son not, and y or
 
 #Not

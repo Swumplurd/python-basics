@@ -1,4 +1,4 @@
-#Metodos de cadenas
+# METODOS DE LISTAS
 
 lista = [1, 2, 3, 4, 5]
 

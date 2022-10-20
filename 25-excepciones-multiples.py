@@ -1,3 +1,5 @@
+# EXCEPCIONES MULTIPLES
+
 #En ocasiones tendremos multiples excepciones posibles y en python podemos encadenarlas para anticiparnos a todas ellas
 
 try:

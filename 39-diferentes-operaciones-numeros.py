@@ -1,3 +1,5 @@
+# OPERACIONES CON NUMEROS (MATH)
+
 #En python tenemos diferentes formas que son nativas en python para operar numeros, sin embargo tambien contamos con paquetes como math
 
 import math

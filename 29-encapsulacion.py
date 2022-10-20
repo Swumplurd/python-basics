@@ -1,3 +1,5 @@
+# ENCAPSULACION
+
 #La encapsulacion es una funcionalidad que no permite la lectura y ejecucion de atributos y metodos externamente a la clase
 #En comparacion a otros lenguajes de programacion python no cuenta con palabras reservadas para este fin, sin embargo se puede lograr de la siguiente manera
 

@@ -1,3 +1,5 @@
+# ARGUMENTOS INDETERMINADOS
+
 #En ocaciones necesitaremos crear funciones de las cuales no tenemos un numero determinado de parametros, para ello python tiene formas de gestionar parametros indeterminados
 #Ya que en python podemos mandar parametros por posicion o por nombre python tiene dos formas diferentes para gestionar los parametros indeterminados
 

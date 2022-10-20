@@ -1,3 +1,5 @@
+# HERENCIA MULTIPLE
+
 #La herencia multiple es una caracteristica con la cual una clase puede heredar atributos y metodos de dos o mas superclases
 
 class A:

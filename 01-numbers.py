@@ -1,4 +1,5 @@
-#Numbers
+# NUMBERS
+
 ''' Para entrar el interprete de Python podemos escribir en nuestra consola "py" y esto inciara el interprete
     Podemos usar el interprete como calculadora escribiendo numeros y operadores
     Tambien podemos asignar estos numeros a variables de la siguiente forma '''

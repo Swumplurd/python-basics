@@ -1,3 +1,5 @@
+# FUNCIONES
+
 #Para implementar funciones usamos la palabra reservada def seguido del nombre de la funcion y los parentesis de parametros, terminando con :
 def holiwo():
     print('Holiwo')

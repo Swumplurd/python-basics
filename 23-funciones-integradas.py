@@ -1,3 +1,5 @@
+# FUNCIONES INTEGRADAS
+
 #Como en cualquier lenguaje de programacion python tiene funciones integradas las cuales nos ayudaran a resolver pequeñas tareas
 #Algunos ejemplos son los siguientes
 

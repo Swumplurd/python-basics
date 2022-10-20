@@ -1,4 +1,5 @@
-#Strings
+# STRINGS
+
 ''' En el interprete nosotros podemos escribir texto directamente, simplemente tenemos que escribir el texto entre comillas dobles o simples
     Podemos escribir comillas simples dentro de unas comillas dobles y viceversa
     Si queremos escribir comillas dobles dentro de comillas dobles debemos escapar las comillas mas internas: "Hola \"Morminiwini\"" '''

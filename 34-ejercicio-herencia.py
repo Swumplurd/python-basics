@@ -1,3 +1,5 @@
+# EJERCICIO CON HERENCIA
+
 class Vehiculo:
     def __init__(self, color = None, ruedas = 0):
         self.color = color

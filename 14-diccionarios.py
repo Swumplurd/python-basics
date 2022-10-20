@@ -1,3 +1,5 @@
+# DICCIONARIOS
+
 #Los diccionarios son una estructura mapeada de claves-valor, no puede haber dos claves iguales dentro de un mismo diccionario
 
 vacio = {}      #Creacion de un diccionario vacio

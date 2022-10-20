@@ -1,3 +1,5 @@
+# METODOS ESPECIALES
+
 #Los metodos especiales son metodos los cuales cumplen una tarea en especifico, caracterizandose por esta sintaxis __metodo__
 
 class Cancion:

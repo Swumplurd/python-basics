@@ -1,3 +1,5 @@
+# CLASES Y OBJETOS
+
 #Para definir una clase en python lo hacemos de la siguiente manera
 class Cliente:
     pass    #Por ahora dejaremos la clase vacia, pero dentro de la clase comunmente van atributos y metodos

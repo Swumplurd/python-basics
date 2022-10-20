@@ -1,4 +1,5 @@
-#Listas
+# LISTAS
+
 ''' Las listas en python son similares a lo que conocemos como arreglos en otros lenguajes de programacion
     Para declarar una lista en python lo hacemos de la siguiente manera:'''
 
